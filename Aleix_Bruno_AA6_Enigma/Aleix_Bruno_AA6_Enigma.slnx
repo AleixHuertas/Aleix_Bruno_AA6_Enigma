@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Aleix_Bruno_AA6_Enigma/Aleix_Bruno_AA6_Enigma.vcxproj" />
+</Solution>
