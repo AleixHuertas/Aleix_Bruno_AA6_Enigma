@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Aleix_Bruno_AA6_Enigma/Aleix_Bruno_AA6_Enigma.vcxproj" />
+  <Project Path="Aleix_Bruno_AA6_Enigma/Aleix_Bruno_AA6_Enigma.vcxproj" Id="adea54f7-755d-44d7-ae9a-5795d02df3cd" />
 </Solution>

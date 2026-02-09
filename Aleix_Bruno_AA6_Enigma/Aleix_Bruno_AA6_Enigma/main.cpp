@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 #include <fstream>
-
+//MENU
 void menu() {
     std::cout << "\n======== ENIGMA ========" << std::endl;
     std::cout << "1. Cifrar Mensaje" << std::endl; 
